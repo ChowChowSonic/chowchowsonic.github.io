@@ -1,0 +1,15 @@
+{
+  "planets": [
+    {
+      "coords": 10000001,
+      "name": "[REDACTED]",
+      "biome": "paradise",
+      "colors": [],
+      "resources": [],
+      "id": 1
+    }
+  ],
+  "starhsips": [],
+  "tools": [],
+  "wildlife": []
+}
