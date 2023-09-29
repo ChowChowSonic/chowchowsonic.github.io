@@ -6,10 +6,57 @@
       "biome": "paradise",
       "colors": [],
       "resources": [],
-      "id": 1
+      "galaxy": "elucid"
+    },
+    {
+      "coords": 952010502001,
+      "name": "Nannites",
+      "biome": "paradise",
+      "colors": ["red", "blue"],
+      "resources": ["copper", "star bulbs"],
+      "galaxy": "elucid"
+    }, 
+    {
+      "coords": 952010010001,
+      "name": "Nannites 2",
+      "biome": "Volcanic",
+      "colors": ["red", "black"],
+      "resources": ["copper", "iron"],
+      "galaxy": "elucid"
+    },
+    {
+      "coords": 999952010010001,
+      "name": "test",
+      "biome": "Volcanic",
+      "colors": ["red", "black"],
+      "resources": ["copper", "iron"],
+      "galaxy": "elucid"
+    },
+    {
+      "coords": 69,
+      "name": "[DATA EXPUNGED]",
+      "biome": "Volcanic",
+      "colors": ["red", "black"],
+      "resources": ["copper", "iron"],
+      "galaxy": "elucid"
     }
   ],
-  "starhsips": [],
-  "tools": [],
+  "starhsips": [
+    {
+      "coords": 101, 
+      "type": "Interceptor", 
+      "colors": [], 
+      "tags": [],
+      "galaxy": "elucid"
+    }
+  ],
+  "tools": [
+    {
+      "coords": 1, 
+      "type": "staff",
+      "tags": [],
+      "galaxy": "elucid"
+    }
+  ],
   "wildlife": []
 }
