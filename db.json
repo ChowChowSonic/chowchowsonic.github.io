@@ -41,7 +41,7 @@
       "galaxy": "elucid"
     }
   ],
-  "starhsips": [
+  "starships": [
     {
       "coords": 101, 
       "type": "Interceptor", 
